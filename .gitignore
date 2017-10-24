@@ -92,6 +92,7 @@ venv.bak/
 venv3/
 
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -112,3 +113,7 @@ venv3/
 
 # csv
 *.csv
+
+# file/folder
+logs/
+example_dags/
